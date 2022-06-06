@@ -1,1 +1,2 @@
-## 리눅스 Shell_Script
+## 2021년 광주 지방기능경기대회 사이버보안 종목
+# Shell Script
