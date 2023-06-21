@@ -1,2 +1,2 @@
-## 2021년 광주 지방기능경기대회 사이버보안 종목
 # Shell Script
+## 작성했던 Shell Script 코드를 모아놓은 Repository 입니다.
