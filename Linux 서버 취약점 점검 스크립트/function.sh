@@ -76,8 +76,8 @@ echo $ReturnValue
 }
 
 CheckEncryptedPasswd() {
-$FILE=$1
-EncryptedPasswdField=$(grep '^root' $FILE | awk -F: '{print $2}' | awk -F'$' '{print $2}')
+SFILE=$1
+EncryptedPasswdField=$(grep '^root' $SFILE | awk -F: '{print $2}' | awk -F'$' '{print $2}')
 case $EncryptedPasswdField in
 	1|2a|5) echo WarnTrue ;;
 	6) echo TrueTrue ;;
