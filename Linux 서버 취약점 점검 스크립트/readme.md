@@ -28,7 +28,7 @@
 - 계정이 존재하지 않는 GID 금지 (Code : U-51 / 중요도 : 하) ✅
 - 동일한 UID 금지 (Code : U-52 / 중요도 : 중) ✅
 - 사용자 Shell 점검 (Code : U-53 / 중요도 : 하) ✅
-- Session Timeout 설정 (Code : U-54 / 중요도 : 하)
+- Session Timeout 설정 (Code : U-54 / 중요도 : 하) ✅
 ### 파일 및 디렉터리 관리
 - root 홈, 패스 디렉터리 권한 및 패스 설정 (Code : U-05 / 중요도 : 상)
 - 파일 및 디렉터리 소유자 설정 (Code : U-06 / 중요도 : 상)
