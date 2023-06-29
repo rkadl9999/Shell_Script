@@ -97,3 +97,15 @@ elif [ $1 = 'VALUE' ] ; then
 	fi
 fi
 }
+
+CheckOwner() {
+CHECKFILE=$1
+OWNER=$(ls -l $CHECKFILE | awk '{print $3}')
+echo $OWNER
+}
+
+CheckPerm() {
+CHECKFILE=$1
+PERM=$(stat -c "%a" $CHECKFILE)
+echo $PERM
+}
