@@ -35,7 +35,7 @@
 - /etc/passwd 파일 소유자 및 권한 설정 (Code : U-07 / 중요도 : 상) ✅
 - /etc/shadow 파일 소유자 및 권한 설정 (Code : U-08 / 중요도 : 상) ✅
 - /etc/hosts 파일 소유자 및 권한 설정 (Code : U-09 / 중요도 : 상) ✅
-- /etc/(x)inetd.conf 파일 소유자 및 권한 설정 (Code : U-10 / 중요도 : 상)
+- /etc/(x)inetd.conf 파일 소유자 및 권한 설정 (Code : U-10 / 중요도 : 상) ✅
 - /etc/syslog.conf 파일 소유자 및 권한 설정 (Code : U-11 / 중요도 : 상)
 - /etc/services 파일 소유자 및 권한 설정 (Code : U-12 / 중요도 : 상)
 - SUID, SGID, Sticky bit 설정 파일 점검 (Code : U-13 / 중요도 : 상)
