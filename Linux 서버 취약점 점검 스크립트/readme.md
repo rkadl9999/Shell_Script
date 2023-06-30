@@ -37,7 +37,7 @@
 - /etc/hosts 파일 소유자 및 권한 설정 (Code : U-09 / 중요도 : 상) ✅
 - /etc/(x)inetd.conf 파일 소유자 및 권한 설정 (Code : U-10 / 중요도 : 상) ✅
 - /etc/syslog.conf 파일 소유자 및 권한 설정 (Code : U-11 / 중요도 : 상) ✅
-- /etc/services 파일 소유자 및 권한 설정 (Code : U-12 / 중요도 : 상)
+- /etc/services 파일 소유자 및 권한 설정 (Code : U-12 / 중요도 : 상) ✅
 - SUID, SGID, Sticky bit 설정 파일 점검 (Code : U-13 / 중요도 : 상)
 - 사용자, 시스템 시작파일 및 환경파일 소유자 및 권한 설정 (Code : U-14 / 중요도 : 상)
 - world writable 파일 점검 (Code : U-15 / 중요도 : 상)
