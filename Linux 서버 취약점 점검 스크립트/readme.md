@@ -43,7 +43,7 @@
 - world writable 파일 점검 (Code : U-15 / 중요도 : 상) ✅
 - /dev에 존재하지 않는 device 파일 점검 (Code : U-16 / 중요도 : 상) ✅
 - $HOME/.rhosts, hosts.equiv 사용 금지 (Code : U-17 / 중요도 : 상)
-- 접속 IP 및 포트 제한 (Code : U-18 / 중요도 : 상)
+- 접속 IP 및 포트 제한 (Code : U-18 / 중요도 : 상) ✅
 - hosts.lpd 파일 소유자 및 권한 설정 (Code : U-55 / 중요도 : 하)
 - UMASK 설정 관리 (Code : U-56 / 중요도 : 중)
 - 홈디렉토리 소유자 및 권한 설정 (Code : U-57 / 중요도 : 중)
