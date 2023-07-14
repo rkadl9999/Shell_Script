@@ -57,7 +57,7 @@
 - Dos 공격에 취약한 서비스 비활성화 (Code : U-23 / 중요도 : 상) ✅
 - NFS 서비스 비활성화 (Code : U-24 / 중요도 : 상) ✅
 - NFS 접근 통제 (Code : U-25 / 중요도 : 상) ✅
-- automountd 제거 (Code : U-26 / 중요도 : 상)
+- automountd 제거 (Code : U-26 / 중요도 : 상) ✅
 - RPC 서비스 확인 (Code : U-27 / 중요도 : 상)
 - NIS, NIS+ 점검 (Code : U-28 / 중요도 : 상)
 - tftp, talk 서비스 비활성화 (Code : U-29 / 중요도 : 상)
