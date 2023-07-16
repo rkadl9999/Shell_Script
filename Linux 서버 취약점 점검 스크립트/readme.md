@@ -59,7 +59,7 @@
 - NFS 접근 통제 (Code : U-25 / 중요도 : 상) ✅
 - automountd 제거 (Code : U-26 / 중요도 : 상) ✅
 - RPC 서비스 확인 (Code : U-27 / 중요도 : 상) ✅
-- NIS, NIS+ 점검 (Code : U-28 / 중요도 : 상)
+- NIS, NIS+ 점검 (Code : U-28 / 중요도 : 상) ✅
 - tftp, talk 서비스 비활성화 (Code : U-29 / 중요도 : 상)
 - Sendmail 버전 점검 (Code : U-30 / 중요도 : 상)
 - 스팸 메일 릴레이 제한 (Code : U-31 / 중요도 : 상)
