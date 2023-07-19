@@ -62,7 +62,7 @@
 - NIS, NIS+ 점검 (Code : U-28 / 중요도 : 상) ✅
 - tftp, talk 서비스 비활성화 (Code : U-29 / 중요도 : 상) ✅
 - Sendmail 버전 점검 (Code : U-30 / 중요도 : 상) ✅
-- 스팸 메일 릴레이 제한 (Code : U-31 / 중요도 : 상)
+- 스팸 메일 릴레이 제한 (Code : U-31 / 중요도 : 상) ✅
 - 일반사용자의 Sendmail 실행 방지 (Code : U-32 / 중요도 : 상)
 - DNS 보안 버전 패치 (Code : U-33 / 중요도 : 상)
 - DNS Zone Transfer 설정 (Code : U-34 / 중요도 : 상)
