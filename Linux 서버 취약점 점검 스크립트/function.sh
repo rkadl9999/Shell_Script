@@ -109,3 +109,9 @@ CHECKFILE=$1
 PERM=$(stat -c "%a" $CHECKFILE)
 echo $PERM
 }
+
+CheckStatus() {
+CHECK_SERVICE=$1
+STATUS=`ps -ef | grep $CHECK_SERVICE | grep -v grep`
+echo $STATUS
+}
