@@ -75,7 +75,7 @@
 - 웹서비스 영역의 분리 (Code : U-41 / 중요도 : 상) ✅
 - ssh 원격접속 허용 (Code : U-60 / 중요도 : 중) ✅
 - ftp 서비스 확인 (Code : U-61 / 중요도 : 하) ✅
-- ftp 계정 shell 제한 (Code : U-62 / 중요도 : 중)
+- ftp 계정 shell 제한 (Code : U-62 / 중요도 : 중) ✅
 - Ftpusers 파일 소유자 및 권한 설정 (Code : U-63 / 중요도 : 하)
 - Ftpusers 파일 설정 (Code : U-64 / 중요도 : 중)
 - at 파일 소유자 및 권한 설정 (Code : U-65 / 중요도 : 중)
