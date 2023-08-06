@@ -77,7 +77,7 @@
 - ftp 서비스 확인 (Code : U-61 / 중요도 : 하) ✅
 - ftp 계정 shell 제한 (Code : U-62 / 중요도 : 중) ✅
 - Ftpusers 파일 소유자 및 권한 설정 (Code : U-63 / 중요도 : 하) ✅
-- Ftpusers 파일 설정 (Code : U-64 / 중요도 : 중)
+- Ftpusers 파일 설정 (Code : U-64 / 중요도 : 중) ✅
 - at 파일 소유자 및 권한 설정 (Code : U-65 / 중요도 : 중)
 - SNMP 서비스 구동 점검 (Code : U-66 / 중요도 : 중)
 - SNMP 서비스 커뮤니티스트링의 복잡성 설정 (Code : U-67 / 중요도 : 중)
