@@ -1,2 +1,2 @@
 # Shell Script
-## 작성했던 ShellScript 코드를 모아놓은 Repository 입니다.
+## This repository is a collection of shell scripts that I wrote.
